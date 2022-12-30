@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Narcoz88.test.github.io/static/css/main.cf684774.css",
+    "main.css": "/Narcoz88.test.github.io/static/css/main.19bb0180.css",
     "main.js": "/Narcoz88.test.github.io/static/js/main.4b040938.js",
     "static/js/787.dfe8b844.chunk.js": "/Narcoz88.test.github.io/static/js/787.dfe8b844.chunk.js",
     "static/media/OpenSans-SemiBold.svg": "/Narcoz88.test.github.io/static/media/OpenSans-SemiBold.2ea39fc1419d0834008b.svg",
@@ -19,12 +19,12 @@
     "static/media/OpenSans-SemiBold.woff2": "/Narcoz88.test.github.io/static/media/OpenSans-SemiBold.a7e5d5e944cf5e03d5d6.woff2",
     "static/media/OpenSans-Bold.woff2": "/Narcoz88.test.github.io/static/media/OpenSans-Bold.f3e79b3d83d8a599df08.woff2",
     "index.html": "/Narcoz88.test.github.io/index.html",
-    "main.cf684774.css.map": "/Narcoz88.test.github.io/static/css/main.cf684774.css.map",
+    "main.19bb0180.css.map": "/Narcoz88.test.github.io/static/css/main.19bb0180.css.map",
     "main.4b040938.js.map": "/Narcoz88.test.github.io/static/js/main.4b040938.js.map",
     "787.dfe8b844.chunk.js.map": "/Narcoz88.test.github.io/static/js/787.dfe8b844.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf684774.css",
+    "static/css/main.19bb0180.css",
     "static/js/main.4b040938.js"
   ]
 }
