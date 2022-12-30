@@ -2,7 +2,7 @@
   "name": "test3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Narcoz88/test3/",
+  "homepage": "https://narcoz88.github.io/Narcoz88.test.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
