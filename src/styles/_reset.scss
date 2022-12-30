@@ -53,6 +53,10 @@ a {
 	text-decoration: none;
 }
 
+a:focus,a:focus-visible,a:visited,a:active{
+	outline: none;
+}
+
 * {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -62,6 +66,8 @@ a {
 	-khtml-user-select: none;
 	-webkit-user-select: none;
 	user-select: none;
+	outline: none !important;
+	-webkit-tap-highlight-color: transparent;
 }
 
 $placeholder: #E6E6E6;
